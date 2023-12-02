@@ -13,7 +13,9 @@ I'm Pooja Poundkar</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/pooja-poundkar-9b95b5281/] target="blank"><img align="center" src="https://www.google.com/imgres?
+> res = profile.search("linkedin_id")
+> res.link
+"https://media-exp1.licdn.com/dms/image/C5103AQFg0lOJGLL5nQ/profile-displayphoto-shrink_200_200/0?e=1605139200&v=beta&t=ezcdygbf8i6Hz7DLdZ2xbKkzpbpPlFHryQ_uUJ2XW-8"
 
 </p>
 
