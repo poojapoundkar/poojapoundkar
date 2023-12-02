@@ -13,8 +13,7 @@ I'm Pooja Poundkar</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/pooja-poundkar-9b95b5281/] target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1661161645857710081%2F6WtDIesg_400x400.png&tbnid=Dpz2K1Dg0Z14yM&vet=12ahUKEwjcysXygOuCAxWtbmwGHQDADMMQMygAegQIARBu..i&imgrefurl=https%3A%2F%2Ftwitter.com%2FLinkedIn&docid=Q9GqTHU7SvLXVM&w=400&h=400&q=linkedin%20pics&ved=2ahUKEwjcysXygOuCAxWtbmwGHQDADMMQMygAegQIARBu" alt="SAIPAVAN" height="30" width="40" /></a>
-
+<a href="[https://www.linkedin.com/in/pooja-poundkar-9b95b5281/] target="blank"><img align="center" src="https://www.google.com/imgres?
 
 </p>
 
