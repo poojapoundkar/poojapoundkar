@@ -3,7 +3,6 @@ I'm Pooja Poundkar</h1>
 <h3 align="center">A Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imSaiPavan27-s6&label=Profile%20views&color=0e75b6&style=flat" alt="Sai Pavan Kumar-s6" /> </p>
 
 - 🌱 I'm aspiring Data Analyst with **Power BI, Python, SQL, Excel**
 
