@@ -4,7 +4,7 @@ I'm Pooja Poundkar</h1>
 <img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 
-- 🌱 I'm aspiring Data Analyst with **Power BI, Python, SQL, Excel**
+- 🌱 I'm Data Research Analyst with **Power BI, Python, SQL, Excel**
 
 - 📫 You can reach out me **poojapoundkar1995@gmail.com**
 
